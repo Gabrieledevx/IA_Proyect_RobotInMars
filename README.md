@@ -68,3 +68,11 @@ Este documento, el `README.md`, recoge la definición del proyecto y su evoluci�
 * Germán Paz Méndez
 * Eric Ramos Suárez
 * Jose Lucas Ruiz González
+
+
+
+Capturas del proyecto en ejecución, 2021, 18 septiembre. 
+<img width="960" alt="mar01" src="https://user-images.githubusercontent.com/57644772/133909071-94a5a1d3-e8d7-4f8a-acce-bb29bc1faed1.PNG">
+
+<img width="959" alt="mar02" src="https://user-images.githubusercontent.com/57644772/133909085-aa15d8a2-21af-450b-9bac-8f9d090599e0.PNG">
+
